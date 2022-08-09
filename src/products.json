@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "LAZYTIME PLUS CORNER",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/products-1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "EASYTIME",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/products-2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "NATURE",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/products-3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "L-SHAPE SOFA-BLACK",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/products-4.jpg" } } }
+      }
+    },
+     {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "02 COMFY 3 SEATER FABRIC SOFA-BROWN",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/products-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "DEXTER L-SHAPE SOFA-LEATHER",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/products-5.jpg" } } }
+      }
+    },
+  
+   
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "TABLE",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+      {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "LUXURY RIO 8 SECTIONAL  SOFA SET",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/products-6.jpg" } } }
+      }
+    }
+  ]
+}
